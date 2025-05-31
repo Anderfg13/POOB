@@ -23,4 +23,5 @@ Nuestro profundo agradecimiento a las docentes que guiaron nuestro aprendizaje:
 🔹 Java (u otro lenguaje relevante)  
 🔹 UML  
 🔹 Git/GitHub  
-🔹 [Otras herramientas específicas]  
+🔹 BlueJ
+🔹 Consola
