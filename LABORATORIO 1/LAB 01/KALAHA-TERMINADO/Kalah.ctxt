@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Kalah
+comment1.params=
+comment1.target=Kalah()
+comment2.params=
+comment2.target=void\ iniciarJuego()
+comment2.text=\r\n\ Constructor\ del\ tablero\ con\ 6\ hoyos\ para\ cada\ jugador,\ divididos\r\n\ en\ norte\ y\ sur,\ cada\ uno\ cuenta\ con\ un\ almac\u00E9n.\r\n
+comment3.params=
+comment3.target=int\ getTurno()
+comment3.text=\r\n\ Regresa\ el\ turno\ actual.\r\n
+comment4.params=
+comment4.target=void\ cambio()
+comment4.text=\r\n\ Hace\ el\ cambio\ de\ turno\ entre\ jugadores.\r\n
+comment5.params=pitI
+comment5.target=void\ makeMove(int)
+comment5.text=\r\n\ Ejecuta\ los\ movimientos,\ turnos\ y\ distribuci\u00F3n\ de\ las\ semillas.\r\n
+comment6.params=
+comment6.target=void\ verificarVictoria()
+comment6.text=\r\n\ Verifica\ si\ hay\ un\ ganador.\r\n
+comment7.params=
+comment7.target=void\ reiniciarJuego()
+comment7.text=\r\n\ Reinicia\ el\ juego.\r\n
+comment8.params=
+comment8.target=void\ mostrarEstadoTablero()
+comment8.text=\r\n\ Muestra\ el\ estado\ actual\ del\ tablero\ en\ la\ consola.\r\n
+numComments=9

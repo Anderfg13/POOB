@@ -1,0 +1,1 @@
+Para poder abrir el archivo java, Abrirlo en bluej
