@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.target=Log
+comment0.text=\r\n\ Clase\ utilitaria\ para\ registrar\ errores\ o\ excepciones\ en\ un\ archivo\ de\ log.\r\n\ <p>\r\n\ El\ archivo\ de\ log\ se\ guarda\ con\ el\ nombre\ "Plan15.log"\ y\ contiene\r\n\ los\ errores\ capturados\ con\ nivel\ SEVERE.\ Utiliza\ la\ clase\ {@link\ java.util.logging}.\r\n\ </p>\r\n
+numComments=1

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Plan15Exception
+comment0.text=\r\nEsta\ clase\ es\ la\ clase\ de\ errores\ del\ proyecto.\r\n\ @authors\ Christian\ Romero\ y\ Anderson\ Garcia\r\n\ @1.0\r\n
+comment1.params=message
+comment1.target=Plan15Exception(java.lang.String)
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ Exceptions\r\n
+numComments=2
