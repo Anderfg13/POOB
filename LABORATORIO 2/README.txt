@@ -1,0 +1,1 @@
+Para ejecutar los archivos dentro del .zip, por favor abrirlo con la aplicacion bluej
